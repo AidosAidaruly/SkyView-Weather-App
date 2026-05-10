@@ -72,9 +72,7 @@ dependencies:
   cupertino_icons: ^1.0.8
 ```
 
-## 📸 Screenshots
 
-<!-- Add your screenshots here -->
 
 ## 📋 Assignment Info
 
